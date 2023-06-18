@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c71c04e6.css",
+    "main.js": "/static/js/main.294d15df.js",
+    "static/media/Trends.svg": "/static/media/Trends.c33f501cd9f55f622d1923dc4dc501a7.svg",
+    "static/media/Group 543.svg": "/static/media/Group 543.9d4949ff75ba9a65cc308f763963acf7.svg",
+    "static/media/PicachuCoin.svg": "/static/media/PicachuCoin.c10e6e1e2914670832d53e7783949dce.svg",
+    "static/media/ProfilePic2.svg": "/static/media/ProfilePic2.5441f08aeebea895a0f83c7c07f4f031.svg",
+    "static/media/profilecard3.svg": "/static/media/profilecard3.b9a4d1119dd7a0fb31e4ba486aba1c04.svg",
+    "static/media/roadcard1.svg": "/static/media/roadcard1.0e88621bda143bfeb2a6c92943308098.svg",
+    "static/media/ProfilePic1.svg": "/static/media/ProfilePic1.a83ae4b019b1f4d4478e4b2097e3c446.svg",
+    "static/media/profilecard2.svg": "/static/media/profilecard2.c3f017a99f17ec55b6f89e070ef2dc1a.svg",
+    "static/media/tweetimg.png": "/static/media/tweetimg.a1c1b12627407adc4957.png",
+    "static/media/elonmusk.jpg": "/static/media/elonmusk.cd1d3568639216243fbb.jpg",
+    "static/media/Roadmap.png": "/static/media/Roadmap.5a1ab9cde1b6c9cd63f4.png",
+    "static/media/Tokenomics.png": "/static/media/Tokenomics.88b9b8154a696decc3df.png",
+    "static/media/Ellipse 91.svg": "/static/media/Ellipse 91.9bbe37d397c6d1e34a4938f6b3aef3ea.svg",
+    "static/media/About.png": "/static/media/About.ca3e5573733703b85f18.png",
+    "static/media/How To Buy_.png": "/static/media/How To Buy_.4d6f912cb77d634bee7c.png",
+    "static/media/Gear Settings.svg": "/static/media/Gear Settings.24dbc3c340f91e1c692b0f0d628931b5.svg",
+    "index.html": "/index.html",
+    "static/media/icon2.svg": "/static/media/icon2.0fdf3d1b7de069894a7e898bbd5d6add.svg",
+    "static/media/Retweet.svg": "/static/media/Retweet.7f5fe9cdf1fc2f2352c985882739f645.svg",
+    "static/media/dots.svg": "/static/media/dots.cdc0f13f7893eb5e4de2913570f0b73b.svg",
+    "static/media/Certified.svg": "/static/media/Certified.9d3048a193e1c1e4ebaf67e90ffdfcc7.svg",
+    "static/media/upload.svg": "/static/media/upload.54478d543b2cdfc167b1b69c1aac6c32.svg",
+    "static/media/Message.svg": "/static/media/Message.5c6a2cc9b107f160da7f581b06d2d7f9.svg",
+    "static/media/icon1.svg": "/static/media/icon1.03bcd4c6390c3781201fb902695b13f5.svg",
+    "static/media/Vector.svg": "/static/media/Vector.425fcd471063581e58563d1bad2e7632.svg",
+    "static/media/icon4.svg": "/static/media/icon4.2ed236a92745b3d16861dafea179238e.svg",
+    "static/media/icon5.svg": "/static/media/icon5.fb4b37ea69e93c8892282bee6f70ec58.svg",
+    "static/media/Vector (2).svg": "/static/media/Vector (2).c5b16b1291dbbad3c88159de1f5a6850.svg",
+    "static/media/icon6.svg": "/static/media/icon6.b85ba65b4dbe2acbcd5937456541dd41.svg",
+    "static/media/down.svg": "/static/media/down.fec840553c2299406a0dcf064aedd7fa.svg",
+    "static/media/icon3.svg": "/static/media/icon3.2a972aae8157da667643cf2ac8360f5b.svg",
+    "main.c71c04e6.css.map": "/static/css/main.c71c04e6.css.map",
+    "main.294d15df.js.map": "/static/js/main.294d15df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c71c04e6.css",
+    "static/js/main.294d15df.js"
+  ]
+}
